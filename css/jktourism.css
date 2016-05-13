@@ -1,0 +1,70 @@
+body {
+	background-color: #ffe6b3;
+}
+
+header, footer {
+	background-color: #ffcc66;
+	/*display: block;*/
+	/*border-bottom: 1px solid #ddd;
+	align-content: space-between;*/
+}
+
+div h1 {
+	font-family: "Copperplate Gothic Bold";
+	float: left;
+}
+
+h6 {
+	font-family: sans-serif;
+	float: left;
+}
+
+.container_12 .navigation {
+	display: inline;
+	list-style-type: none;
+	float: right;
+}
+
+.wrap {
+	padding-top: 20px;
+	font-family: sans-serif;
+	color: #595959;
+	font-style: oblique;
+}
+
+section {
+	font-family: sans-serif;
+	color: #595959;
+	font-style: oblique;
+}
+
+li {
+	list-style-type: none;
+	display: inline;
+	padding-right: 15px;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+#wrap-bold {
+	font-weight: bolder;
+}
+
+ul a {
+	text-decoration: none;
+}
+
+.grid_9 ul {
+	padding-left: 100px;
+	float: right;
+}
+
+.footer-wrap {
+	float: right;
+	padding-top: 12px;
+}
+
+a img{
+	height: 40px;
+	width: 40px;
+}
